@@ -49,28 +49,30 @@ color: #434455;
 
 }
 .business-solutions-title{
-  font-size: 36px;
-   line-height: 1.11;
+  font-size: 56px;
+   line-height:  1.07;
    text-align: center;
    letter-spacing: 0.02em;
    text-transform: capitalize;
-   color: #2e2f42 ;
+    color: #ffffff;
+   background-color: #2e2f42 ;
 }
 .order-button 
   {
  font-family: inherit;
   font-size: 16px;
-  font-weight: 500px;
+  font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
   color: #fff;
   background-color: #4d5ae5;
   cursor: pointer;
   }
-
-.order-button:hover,
 .order-button:focus {
-background-color: #2e2f42;
+background-color: #404BBF;
+}
+.order-button:hover{
+  background-color: #404BBF;
 }
 .prioritets-section{
 font-family: "Roboto", sans-serif;
@@ -113,6 +115,7 @@ line-height: 1.11;
 letter-spacing: 0.02em;
 text-align: center;
 color: #2e2f42;
+text-transform: capitalize;
 }
 .team-list{
   list-style: none;
@@ -171,7 +174,7 @@ font-weight: 700;
 font-size: 18px;
 line-height: 1,7;
 letter-spacing: 0.03em;
-text-transform: uppercase;
+text-transform: capitalize;
 color: #4d5ae5;
  }
 .footer-logo .logo-part{
