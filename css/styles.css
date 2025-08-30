@@ -48,6 +48,9 @@ letter-spacing: 0.02em;
 color: #434455;
 
 }
+.hero{
+  background-color: #2e2f42;
+}
 .business-solutions{
   font-size: 56px;
    line-height:  1.07;
